@@ -9,8 +9,8 @@ import sys
 # Complete the stepPerms function below.
 def stepPerms(n):
     # Fibonacci_analogue
-    # If n = 1 stair -> 1 way, if n = 2 -> 2 ways, if n = 3 -> 4 ways
-    # Because 3 - maximum number of stairs, he can climb at once
+    # If n = 1 step -> 1 way, if n = 2 -> 2 ways, if n = 3 -> 4 ways
+    # Because 3 - maximum number of steps, he can climb at once
     wfs_1 = 1
     wfs_2 = 2
     wfs_3 = 4
